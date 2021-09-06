@@ -42,15 +42,7 @@ $endif$
             $highlighting-css$
         </style>
         $endif$
-        $for(css)$
-        <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$/>
-              $endfor$
-              $if(math)$
-              $math$
-              $endif$
-              $for(header-includes)$
-              $header-includes$
-              $endfor$   
+	<link rel="stylesheet" href="css/style.css" />
     </head>
 
     <body>

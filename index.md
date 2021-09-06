@@ -1,4 +1,6 @@
-<center> <h1>Page of Corentin Barloy</h1> </center>
+---
+title: Page of Corentin Barloy</h1> </center>
+...
 
 * Email: corentin.barloy@inria.fr
 * Current position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)

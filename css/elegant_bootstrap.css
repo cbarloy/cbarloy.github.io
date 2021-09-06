@@ -17,6 +17,10 @@ body {
   background: #fefefe;
 }
 
+.uk-overflow-container{
+  overflow-y: unset;
+}
+
 a {
   color: #0645ad;
   text-decoration: none;
