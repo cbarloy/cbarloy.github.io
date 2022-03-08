@@ -2,7 +2,7 @@
 title: Page of Corentin Barloy</h1> </center>
 ...
 
-* Email: corentin <DOT> barloy <AT> inria <DOT> fr
+* Email: corentin DOT barloy AT inria DOT fr
 * Current position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)
 * advisors
     - [Charles Paperman](https://paperman.name)
