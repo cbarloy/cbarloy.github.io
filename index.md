@@ -12,11 +12,15 @@ title: Page of Corentin Barloy</h1> </center>
 
 # PhD subject
 
-My main area of intesrest are automata theory, circuit complexity and algebraic semigroups.
+My main area of interest are automata theory, circuit complexity and algebraic semigroups.
 I especially try to find lower bounds for small-depth circuit with linear numbers of wires or gates.
 
 # Publications list
 [dblp](https://dblp.org/pid/247/1049.html)
+
+## Preprints
+* [The regular languages of first-order logic with one alternation](https://arxiv.org/abs/2203.06075) 
+<br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, 2022.
 
 ## In proceedings of conferences
 
