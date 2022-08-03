@@ -45,3 +45,6 @@ I especially try to find lower bounds for small-depth circuit with linear number
 * Stackless processing of streamed trees
     - [PODS 2021](pdfs/stackless_pods.pdf)
     - [PODS 2021](https://www.youtube.com/watch?v=3OmtIJU7BNw) (recording)
+* The regular languages of first-order logic with one alternation
+    - [LICS 2022](pdfs/sigma2_lics.pdf) 
+
