@@ -18,10 +18,6 @@ I especially try to find lower bounds for small-depth circuit with linear number
 # Publications list
 [dblp](https://dblp.org/pid/247/1049.html)
 
-## Preprints
-* [The regular languages of first-order logic with one alternation](https://arxiv.org/abs/2203.06075) 
-<br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, 2022.
-
 ## In proceedings of conferences
 
 * [A robust class of linear recurrence sequences](https://drops.dagstuhl.de/opus/volltexte/2020/11652/)
@@ -32,6 +28,16 @@ I especially try to find lower bounds for small-depth circuit with linear number
 
 * [Stackless processing of streamed trees](https://hal.archives-ouvertes.fr/hal-03021960)
 <br/>C. Barloy, F. Murlak et C. Paperman, PODS, 2021.
+
+* [The regular languages of first-order logic with one alternation](https://dl.acm.org/doi/10.1145/3531130.3533371) 
+<br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, LICS, 2022.
+
+
+## In journals
+
+* [A robust class of linear recurrence sequences](https://www.sciencedirect.com/science/article/pii/S0890540122001195?via%3Dihub)
+<br/>C. Barloy, N. Fijalkow, N. Lhote et F. Mazowiecki, Information and Computation, 2022.
+
 
 #  Slides of my talks
 
@@ -47,4 +53,14 @@ I especially try to find lower bounds for small-depth circuit with linear number
     - [PODS 2021](https://www.youtube.com/watch?v=3OmtIJU7BNw) (recording)
 * The regular languages of first-order logic with one alternation
     - [LICS 2022](pdfs/sigma2_lics.pdf) 
+    - [Extended](pdfs/sigma2_full.pdf)
 
+# Teaching
+
+* 2021-2022
+    - [TD/TP Algorithmes et Programmation 1](https://www.fil.univ-lille.fr/portail/index.php?dipl=L1&sem=S2&ue=AP&label=Pr%C3%A9sentation) (Univ. Lille)
+    - [TD/TP Base de Données 1](https://www.fil.univ-lille.fr/portail/index.php?dipl=L&sem=S3&ue=BDD1&label=Pr%C3%A9sentation) (Univ. Lille)
+  
+* 2022-2023
+    - [TD/TP Algorithmes et Programmation 1](https://www.fil.univ-lille.fr/portail/index.php?dipl=L1&sem=S2&ue=AP&label=Pr%C3%A9sentation) (Univ. Lille)
+    - Colles d'informatique en MPI (Faidherbe)
