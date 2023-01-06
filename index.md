@@ -1,5 +1,5 @@
 ---
-title: Page of Corentin Barloy</h1> </center>
+title: Page of Corentin Barloy
 ...
 
 * Email: corentin DOT barloy AT inria DOT fr
