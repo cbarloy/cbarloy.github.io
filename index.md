@@ -33,7 +33,7 @@ I especially try to find lower bounds for small-depth circuit with linear number
 <br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, LICS, 2022.
 
 
-## In journals
+## In journals
 
 * [A robust class of linear recurrence sequences](https://www.sciencedirect.com/science/article/pii/S0890540122001195?via%3Dihub)
 <br/>C. Barloy, N. Fijalkow, N. Lhote et F. Mazowiecki, Information and Computation, 2022.
@@ -64,3 +64,11 @@ I especially try to find lower bounds for small-depth circuit with linear number
 * 2022-2023
     - [TD/TP Algorithmes et Programmation 1](https://www.fil.univ-lille.fr/portail/index.php?dipl=L1&sem=S2&ue=AP&label=Pr%C3%A9sentation) (Univ. Lille)
     - Colles d'informatique en MPI (Faidherbe)
+
+* 2023-2024
+    - [TP UNIX](https://www.fil.univ-lille.fr/portail/index.php?dipl=L&sem=S3&ue=Unix&label=Pr%C3%A9sentation) (Univ. Lille)
+    - [Cours/TD/TP Bases de Données Relationnelles](https://www.fil.univ-lille.fr/portail/index.php?dipl=MInfo&sem=ML&ue=BDR&label=Pr%C3%A9sentation) (Univ. Lille)
+        - [Séance 1](cours/BDR/cours1.zip)
+        - [Séance 2](cours/BDR/cours2.zip)
+    - Colles d'informatique en MPI (Faidherbe)
+
