@@ -2,6 +2,8 @@
 title: Page of Corentin Barloy
 ...
 
+<img src="images/moi2.jpg" style="width:180px; margin-right:10px; float:right;" alt="ID">
+
 * Email: corentin DOT barloy AT inria DOT fr
 * Current position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)
 * advisors
