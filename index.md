@@ -73,6 +73,7 @@ I especially try to find lower bounds for small-depth circuit with linear number
         - [Séance 1](cours/BDR/cours1.zip)
         - [Séance 2](cours/BDR/cours2.zip)
         - [Séance 3](cours/BDR/cours3.zip)
+        - [Séance 4](cours/BDR/cours4.zip)
         - [Annales](cours/BDR/annales.zip)
     - Colles d'informatique en MPI (Faidherbe)
 
