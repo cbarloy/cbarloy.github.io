@@ -16,6 +16,7 @@ title: Page of Corentin Barloy
 
 My main area of interest are automata theory, circuit complexity and algebraic semigroups.
 I especially try to find lower bounds for small-depth circuit with linear numbers of wires or gates.
+The current version of the manuscript is [here](pdfs/these.pdf).
 
 # Publications list
 [dblp](https://dblp.org/pid/247/1049.html)
