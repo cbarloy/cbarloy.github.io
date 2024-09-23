@@ -4,12 +4,10 @@ title: Page of Corentin Barloy
 
 <img src="images/moi2.jpg" style="width:180px; margin-right:10px; float:right;" alt="ID">
 
-* Email: corentin DOT barloy AT inria DOT fr
-* Current position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)
-* advisors
-    - [Charles Paperman](https://paperman.name)
-    - [Michaël Cadilhac](https://michael.cadilhac.name/)
-    - [Sylvain Salvati](https://www.labri.fr/perso/salvati/)
+* Email: corentin DOT barloy AT rub DOT de
+* Current position: Post-doc at [Ruhr-Universität-Bochum](https://informatik.rub.de/) with [Thomas Zeume](https://informatik.rub.de/zeume/). 
+* Past position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)
+with [Charles Paperman](https://paperman.name), [Michaël Cadilhac](https://michael.cadilhac.name/) and [Sylvain Salvati](https://www.labri.fr/perso/salvati/).
 * French [CV](pdfs/cv.pdf)
 
 # PhD subject
