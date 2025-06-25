@@ -8,7 +8,7 @@ title: Page of Corentin Barloy
 * Current position: Post-doc at [Ruhr-Universität-Bochum](https://informatik.rub.de/) with [Thomas Zeume](https://informatik.rub.de/zeume/). 
 * Past position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)
 with [Charles Paperman](https://paperman.name), [Michaël Cadilhac](https://michael.cadilhac.name/) and [Sylvain Salvati](https://www.labri.fr/perso/salvati/).
-* French [CV](pdfs/cv.pdf)
+* [CV](pdfs/cv.pdf)
 
 # PhD subject
 
@@ -32,6 +32,10 @@ The current version of the manuscript is [here](pdfs/these.pdf).
 
 * [The regular languages of first-order logic with one alternation](https://dl.acm.org/doi/10.1145/3531130.3533371) 
 <br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, LICS, 2022.
+
+* [Dynamic Membership for Regular Tree Languages](https://arxiv.org/abs/2504.17536)
+<br/>A. Amarilli, C. Barloy, L. Jachiet, C. Paperman MFCS, 2025.
+
 
 
 ## In journals
@@ -76,4 +80,10 @@ The current version of the manuscript is [here](pdfs/these.pdf).
         - [Séance 5](cours/BDR/cours5.zip)
         - [Annales](cours/BDR/annales.zip)
     - Colles d'informatique en MPI (Faidherbe)
+    
+* 2024-2025
+    - Lecture/exercises Computational complexity theory (RUB)
+    - Lecture/exercises Highlights of theoretical computer science (RUB)
+    - Seminar Gems of logic (RUB)
+
 
