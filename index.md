@@ -33,7 +33,7 @@ The current version of the manuscript is [here](pdfs/these.pdf).
 * [The regular languages of first-order logic with one alternation](https://dl.acm.org/doi/10.1145/3531130.3533371) 
 <br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, LICS, 2022.
 
-* [Dynamic Membership for Regular Tree Languages](https://arxiv.org/abs/2504.17536)
+* [Dynamic membership for regular tree languages](https://arxiv.org/abs/2504.17536)
 <br/>A. Amarilli, C. Barloy, L. Jachiet, C. Paperman MFCS, 2025.
 
 
@@ -59,6 +59,8 @@ The current version of the manuscript is [here](pdfs/these.pdf).
 * The regular languages of first-order logic with one alternation
     - [LICS 2022](pdfs/sigma2_lics.pdf) 
     - [Extended](pdfs/sigma2_full.pdf)
+* Dynamic membership for regular tree languages
+    - [MFCS 2025](pdfs/MFCS_barloy.pdf)
 
 # Teaching
 
