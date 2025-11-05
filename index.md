@@ -85,6 +85,7 @@ The current version of the manuscript is [here](pdfs/these.pdf).
     
 * 2024-2025
     - Lecture/exercises Computational complexity theory (RUB)
+        - [Slides](pdfs/cours_circuits.pdf) on Boolean circuits
     - Lecture/exercises Highlights of theoretical computer science (RUB)
     - Seminar Gems of logic (RUB)
 
