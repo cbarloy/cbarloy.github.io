@@ -14,7 +14,7 @@ with [Charles Paperman](https://paperman.name), [Michaël Cadilhac](https://mich
 
 My main area of interest are automata theory, circuit complexity and algebraic semigroups.
 I especially try to find lower bounds for small-depth circuit with linear numbers of wires or gates.
-The current version of the manuscript is [here](pdfs/these.pdf).
+The current version of the manuscript is [here](pdfs/these.pdf). The slides are [here](pdfs/phd_defense.pdf).
 
 # Publications list
 [dblp](https://dblp.org/pid/247/1049.html)
@@ -54,8 +54,10 @@ The current version of the manuscript is [here](pdfs/these.pdf).
     - [STACS 2021](pdfs/universality_stacs.pdf)
     - [STACS 2021](https://www.youtube.com/watch?v=iDvoxUGR6kQ&list=PLtP1eXEDZj65DwBQ0IbZN4mTydkQ1Cbo3&index=3) (recording)
 * Stackless processing of streamed trees
+    - [Highlights 2021](pdfs/stackless_short.pdf)
     - [PODS 2021](pdfs/stackless_pods.pdf)
     - [PODS 2021](https://www.youtube.com/watch?v=3OmtIJU7BNw) (recording)
+    - [Extended](pdfs/stackless_extended.pdf)
 * The regular languages of first-order logic with one alternation
     - [LICS 2022](pdfs/sigma2_lics.pdf) 
     - [Extended](pdfs/sigma2_full.pdf)
