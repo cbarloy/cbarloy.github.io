@@ -59,6 +59,7 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
     - [PODS 2021](https://www.youtube.com/watch?v=3OmtIJU7BNw) (recording)
     - [Extended](pdfs/stackless_extended.pdf)
 * The regular languages of first-order logic with one alternation
+    - [GT DAAL 2022](pdfs/sigma_poster.pdf) 
     - [LICS 2022](pdfs/sigma2_lics.pdf) 
     - [Extended](pdfs/sigma2_full.pdf)
 * Dynamic membership for regular tree languages
