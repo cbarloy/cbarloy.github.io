@@ -33,9 +33,11 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
 * [The regular languages of first-order logic with one alternation](https://dl.acm.org/doi/10.1145/3531130.3533371) 
 <br/>C. Barloy, M. Cadilhac, C. Paperman, T. Zeume, LICS, 2022.
 
-* [Dynamic membership for regular tree languages](https://arxiv.org/abs/2504.17536)
-<br/>A. Amarilli, C. Barloy, L. Jachiet, C. Paperman MFCS, 2025.
+* [Dynamic membership for regular tree languages](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2025.8)
+<br/>A. Amarilli, C. Barloy, L. Jachiet, C. Paperman, MFCS, 2025.
 
+* [Algebraic characterizations of classes of regular languages in DynFO](https://arxiv.org/abs/2601.18429)
+<br/>C. Barloy, F. Tschirbs, N. Vortmeier, T. Zeume, STACS, 2026.
 
 
 ## In journals
@@ -64,6 +66,8 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
     - [Extended](pdfs/sigma2_full.pdf)
 * Dynamic membership for regular tree languages
     - [MFCS 2025](pdfs/MFCS_barloy.pdf)
+* Algebraic characterizations of classes of regular languages in DynFO
+    - [STACS 2026](pdfs/dynfo_full.pdf)
 
 # Teaching
 
