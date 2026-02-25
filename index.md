@@ -27,7 +27,7 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
 * [Bidimensional linear recursive sequences and universality of unambiguous register automata](https://drops.dagstuhl.de/opus/volltexte/2021/13653/)
 <br/>C. Barloy et L. Clemente, STACS, 2021.
 
-* [Stackless processing of streamed trees](https://hal.archives-ouvertes.fr/hal-03021960)
+* [Stackless processing of streamed trees](https://dl.acm.org/doi/10.1145/3452021.3458320)
 <br/>C. Barloy, F. Murlak et C. Paperman, PODS, 2021.
 
 * [The regular languages of first-order logic with one alternation](https://dl.acm.org/doi/10.1145/3531130.3533371) 
@@ -36,7 +36,7 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
 * [Dynamic membership for regular tree languages](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2025.8)
 <br/>A. Amarilli, C. Barloy, L. Jachiet, C. Paperman, MFCS, 2025.
 
-* [Algebraic characterizations of classes of regular languages in DynFO](https://arxiv.org/abs/2601.18429)
+* [Algebraic characterizations of classes of regular languages in DynFO](https://doi.org/10.4230/LIPIcs.STACS.2026.9)
 <br/>C. Barloy, F. Tschirbs, N. Vortmeier, T. Zeume, STACS, 2026.
 
 
