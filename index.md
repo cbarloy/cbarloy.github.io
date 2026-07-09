@@ -39,6 +39,10 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
 * [Algebraic characterizations of classes of regular languages in DynFO](https://doi.org/10.4230/LIPIcs.STACS.2026.9)
 <br/>C. Barloy, F. Tschirbs, N. Vortmeier, T. Zeume, STACS, 2026.
 
+* [ Shuffles of Context-Free Languages Along Regular Trajectories ](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2026.163)
+<br/>C. Barloy, M. Cadilhac, K. Ockerlund, ICALP, 2026.
+
+
 
 ## In journals
 
@@ -68,6 +72,9 @@ The current version of the manuscript is [here](pdfs/these.pdf). The slides are 
     - [MFCS 2025](pdfs/MFCS_barloy.pdf)
 * Algebraic characterizations of classes of regular languages in DynFO
     - [STACS 2026](pdfs/dynfo_full.pdf)
+* Shuffles of Context-Free Languages Along Regular Trajectories 
+    - [ICALP 2026](pdfs/shuffle.pdf)
+
 
 # Teaching
 
