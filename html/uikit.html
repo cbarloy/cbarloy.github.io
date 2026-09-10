@@ -1,97 +1,62 @@
-<!DOCTYPE html>
-<html $if(lang)$ lang="$lang$" $endif$ dir="ltr">
+<!doctype html>
+<html lang="$if(lang)$$lang$$else$en$endif$">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#101a2b">
+  <title>$if(title)$$title$ · $endif$Academic website</title>
+  $if(description)$<meta name="description" content="$description$">$endif$
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <div class="reading-progress" aria-hidden="true"><span></span></div>
 
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>$if(title)$$title$$endif$</title>
-        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-        <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon.png">
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Back to top">CB<span>.</span></a>
+    <nav class="header-links" aria-label="Quick links">
+      <a href="mailto:corentin.barloy@irisa.fr">Email</a>
+      <a href="pdfs/cv.pdf">CV</a>
+      <button class="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">
+        <svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41"/></svg>
+        <svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8Z"/></svg>
+      </button>
+    </nav>
+  </header>
 
-$if(template_css)$
-<link rel="stylesheet" href="$template_css$">
-$else$
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.26.4/css/uikit.gradient.css">
-$endif$
+  <div id="top" class="hero">
+    <div class="hero-pattern" aria-hidden="true"></div>
+    <p class="eyebrow">Theoretical computer science</p>
+    <h1>$title$</h1>
+    $if(subtitle)$<p class="subtitle">$subtitle$</p>$endif$
+    <p class="hero-note">Research & teaching at Université de Rennes</p>
+  </div>
 
-        <!-- <link rel="stylesheet" href="style.css"> -->
-        <link rel="stylesheet" href="https://cdn.rawgit.com/diversen/pandoc-uikit/master/style.css">
-        <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
-        <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
-        <!-- <script src="uikit.js"></script> -->
-        <script src="https://cdn.rawgit.com/diversen/pandoc-uikit/master/uikit.js"></script>
-        <!-- <script src="scripts.js"></script> -->
-        <script src="https://cdn.rawgit.com/diversen/pandoc-uikit/master/scripts.js"></script>
-        <!-- <script src="jquery.sticky-kit.js "></script> -->
-        <script src="https://cdn.rawgit.com/diversen/pandoc-uikit/master/jquery.sticky-kit.js"></script>
+  <div class="page-shell">
+    $if(toc)$
+    <aside class="sidebar">
+      <div class="toc-wrap">
+        <p class="toc-label">On this page</p>
+        <nav id="$idprefix$TOC" aria-label="Table of contents">
+          $toc$
+        </nav>
+      </div>
+    </aside>
+    $endif$
 
-        <meta name="generator" content="pandoc-uikit" />
-        $for(author-meta)$
-        <meta name="author" content="$author-meta$" />
-        $endfor$
-        $if(date-meta)$
-        <meta name="date" content="$date-meta$" />
-        $endif$
-        <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
-        <style type="text/css">code{white-space: pre;}</style>
-        $if(quotes)$
-        <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
-        $endif$
-        $if(highlighting-css)$
-        <style type="text/css">
-            $highlighting-css$
-        </style>
-        $endif$
-	<link rel="stylesheet" href="css/style.css" />
-    </head>
+    <main id="content" class="content">
+      $body$
+    </main>
+  </div>
 
-    <body>
-
-
-        <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
-
-            $if(title)$
-            <div class="uk-grid" data-uk-grid-margin>
-                <div class="uk-width-1-1">
-                    <h1 class="uk-heading-large">$title$</h1>
-                    $if(date)$
-                    <h3 class="uk-heading-large">$date$</p></h3>
-                    $endif$
-                    $for(author)$
-                    <p class="uk-text-large">$author$</p>
-                    $endfor$
-                </div>
-            </div>
-            $endif$
-
-            <div class="uk-grid" data-uk-grid-margin >          
-                <div class="uk-width-medium-1-4">
-                    <div class="uk-overflow-container" data-uk-sticky="{top:25,media: 768}">
-                        <div class="uk-panel uk-panel-box menu-begin" >
-
-                            $if(toc)$
-                            $toc$
-                            $endif$
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="uk-width-medium-3-4">
-$body$                    
-                </div>
-            </div>
-$if(analytics)$                    
-            <script>
-                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', '$analytics$', 'auto');
-  ga('send', 'pageview');
-$endif$
-            <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
-        </div>
-    </body>
+  <footer>
+    <p>Corentin Barloy · Université de Rennes · LogicA / IRISA</p>
+    <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
+  </footer>
+  <script src="js/site.js"></script>
+</body>
 </html>
