@@ -143,6 +143,15 @@ MFCS 2025 · [Slides](pdfs/MFCS_barloy.pdf)
 
 # Teaching
 
+## 2025–2026
+
+- **Computational complexity theory**, Ruhr University Bochum  
+  Lecture and exercises
+- **Highlights of theoretical computer science**, Ruhr University Bochum  
+  Lecture and exercises · [Transformers slides](pdfs/cours_transformers.pdf)
+- **Gems of logic**, Ruhr University Bochum  
+  Seminar
+
 ## 2024–2025
 
 - **Computational complexity theory**, Ruhr University Bochum  
