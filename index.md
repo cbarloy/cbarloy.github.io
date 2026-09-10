@@ -4,8 +4,9 @@ title: Page of Corentin Barloy
 
 <img src="images/moi2.jpg" style="width:180px; margin-right:10px; float:right;" alt="ID">
 
-* Email: corentin DOT barloy AT rub DOT de
-* Current position: Post-doc at [Ruhr-Universität-Bochum](https://informatik.rub.de/) with [Thomas Zeume](https://informatik.rub.de/zeume/). 
+* Email: corentin DOT barloy AT irisa DOT fr
+* Current position: Maître de conférences at [Université de Rennes](https://www.univ-rennes.fr/) in the [LogicA](https://www.irisa.fr/equipes/logica) team. 
+* Past position: Post-doc at [Ruhr-Universität-Bochum](https://informatik.rub.de/) with [Thomas Zeume](https://informatik.rub.de/zeume/). 
 * Past position: PhD @ CRIStAL/INRIA in [LINKS team](https://team.inria.fr/links/fr/)
 with [Charles Paperman](https://paperman.name), [Michaël Cadilhac](https://michael.cadilhac.name/) and [Sylvain Salvati](https://www.labri.fr/perso/salvati/).
 * [CV](pdfs/cv.pdf)
